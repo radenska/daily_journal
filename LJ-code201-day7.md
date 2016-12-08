@@ -1,0 +1,3 @@
+<h1>LJ Code 201 Day 7</h1>
+
+Today, I got to practice a lot with objects and methods, as well as rendering html tables using java script. It took a few hours for the table structure to sink in, but once I did that, the functions/methods with objects and arrays came very easily. The only thing I was unable to do was make the table footer method more generic (e.g., so I could use a single method for both tables). I tried all kinds of things to no avail. I feel like there's probably some way to pass a variable into a function that is an array inside an object inside an array, but I couldn't figure out what it was. The two different indices really threw me. 
